@@ -1807,6 +1807,13 @@
 	},
 	{
 		"Brand": "Analog.Man",
+		"Name": "King of Tone (Black)",
+		"Width": 4.7,
+		"Height": 3.84,
+		"Image": "analogman-king-of-tone-black.png"
+	},
+	{
+		"Brand": "Analog.Man",
 		"Name": "King of Tone (White)",
 		"Width": 4.7,
 		"Height": 3.84,
@@ -4765,6 +4772,27 @@
 		"Width": 6.72,
 		"Height": 4.8,
 		"Image": "blackstar-ht-dual.png"
+	},
+	{
+		"Brand": "Blackstar",
+		"Name": "ID:X Floor One",
+		"Width": 8.46,
+		"Height": 5.83,
+		"Image": "blackstar-idx-floor-one.png"
+	},
+	{
+		"Brand": "Blackstar",
+		"Name": "ID:X Floor Three",
+		"Width": 15.63,
+		"Height": 7.46,
+		"Image": "blackstar-idx-floor-three.png"
+	},
+	{
+		"Brand": "Blackstar",
+		"Name": "ID:X Floor Two",
+		"Width": 12.4,
+		"Height": 6.52,
+		"Image": "blackstar-idx-floor-two.png"
 	},
 	{
 		"Brand": "Blackstar",
@@ -23621,36 +23649,36 @@
 	{
 		"Brand": "Hotone",
 		"Name": "Choir",
-		"Width": 1.9,
-		"Height": 3.2,
+		"Width": 1.72,
+		"Height": 2.89,
 		"Image": "hotone-choir.png"
 	},
 	{
 		"Brand": "Hotone",
 		"Name": "Djent",
-		"Width": 1.9,
-		"Height": 3.2,
+		"Width": 1.72,
+		"Height": 2.89,
 		"Image": "hotone-djent.png"
 	},
 	{
 		"Brand": "Hotone",
 		"Name": "Fury",
-		"Width": 1.9,
-		"Height": 3.2,
+		"Width": 1.72,
+		"Height": 2.89,
 		"Image": "hotone-fury.png"
 	},
 	{
 		"Brand": "Hotone",
 		"Name": "Gate",
-		"Width": 1.9,
-		"Height": 3.2,
+		"Width": 1.72,
+		"Height": 2.89,
 		"Image": "hotone-gate.png"
 	},
 	{
 		"Brand": "Hotone",
 		"Name": "Harmony",
-		"Width": 1.9,
-		"Height": 3.2,
+		"Width": 1.72,
+		"Height": 2.89,
 		"Image": "hotone-harmony.png"
 	},
 	{
@@ -23663,15 +23691,15 @@
 	{
 		"Brand": "Hotone",
 		"Name": "Komp",
-		"Width": 1.9,
-		"Height": 3.2,
+		"Width": 1.72,
+		"Height": 2.89,
 		"Image": "hotone-komp.png"
 	},
 	{
 		"Brand": "Hotone",
 		"Name": "Krush",
-		"Width": 1.9,
-		"Height": 3.2,
+		"Width": 1.72,
+		"Height": 2.89,
 		"Image": "hotone-krush.png"
 	},
 	{
@@ -23733,15 +23761,15 @@
 	{
 		"Brand": "Hotone",
 		"Name": "Wally Looper",
-		"Width": 1.9,
-		"Height": 3.2,
+		"Width": 1.72,
+		"Height": 2.89,
 		"Image": "hotone-wally.png"
 	},
 	{
 		"Brand": "Hotone",
 		"Name": "Wally+ Looper",
-		"Width": 1.9,
-		"Height": 3.2,
+		"Width": 1.72,
+		"Height": 2.89,
 		"Image": "hotone-wally-plus.png"
 	},
 	{
@@ -29168,6 +29196,13 @@
 		"Width": 2.78,
 		"Height": 4.9,
 		"Image": "klowra-everlast-delay.png"
+	},
+	{
+		"Brand": "Klowra",
+		"Name": "Gnash Distortion",
+		"Width": 2.78,
+		"Height": 4.9,
+		"Image": "klowra-gnash-distortion.png"
 	},
 	{
 		"Brand": "Klowra",
@@ -41999,6 +42034,13 @@
 		"Width": 7.09,
 		"Height": 4.91,
 		"Image": "polyend-step.png"
+	},
+	{
+		"Brand": "Prescription Electronics",
+		"Name": "Rx Overdriver",
+		"Width": 3.7,
+		"Height": 4.88,
+		"Image": "prescription-electronics-rx-overdriver.png"
 	},
 	{
 		"Brand": "Preston Pedals",
