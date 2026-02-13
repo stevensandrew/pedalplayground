@@ -3900,6 +3900,27 @@
 	},
 	{
 		"Brand": "Behringer",
+		"Name": "BM-11M Low Pass Filter",
+		"Width": 5.81,
+		"Height": 7.82,
+		"Image": "behringer-bm11m.png"
+	},
+	{
+		"Brand": "Behringer",
+		"Name": "BM-12 Ring Modulator",
+		"Width": 5.81,
+		"Height": 7.82,
+		"Image": "behringer-bm12.png"
+	},
+	{
+		"Brand": "Behringer",
+		"Name": "BM-15M Resonance Filter",
+		"Width": 5.81,
+		"Height": 7.82,
+		"Image": "behringer-bm15m.png"
+	},
+	{
+		"Brand": "Behringer",
 		"Name": "BOD400 Bass Overdrive",
 		"Width": 2.76,
 		"Height": 4.84,
@@ -3977,10 +3998,17 @@
 	},
 	{
 		"Brand": "Behringer",
-		"Name": "FC600 Volume and Expression Control",
-		"Width": 4.41,
-		"Height": 11.8,
+		"Name": "FC600",
+		"Width": 4.19,
+		"Height": 11.7,
 		"Image": "behringer-fc600.png"
+	},
+	{
+		"Brand": "Behringer",
+		"Name": "FCV100",
+		"Width": 4.56,
+		"Height": 9.8,
+		"Image": "behringer-fcv100.png"
 	},
 	{
 		"Brand": "Behringer",
@@ -4040,6 +4068,13 @@
 	},
 	{
 		"Brand": "Behringer",
+		"Name": "Meatball",
+		"Width": 7.9,
+		"Height": 5.89,
+		"Image": "behringer-meatball.png"
+	},
+	{
+		"Brand": "Behringer",
 		"Name": "NR300 Noise Reducer",
 		"Width": 2.76,
 		"Height": 4.84,
@@ -4068,10 +4103,24 @@
 	},
 	{
 		"Brand": "Behringer",
+		"Name": "Ring Stinger",
+		"Width": 7.9,
+		"Height": 5.89,
+		"Image": "behringer-ring-stinger.png"
+	},
+	{
+		"Brand": "Behringer",
 		"Name": "SF300 Super Fuzz",
 		"Width": 2.76,
 		"Height": 4.84,
 		"Image": "behringer-sf300.png"
+	},
+	{
+		"Brand": "Behringer",
+		"Name": "The Flanger With No Name",
+		"Width": 7.9,
+		"Height": 5.89,
+		"Image": "behringer-the-flanger-with-no-name.png"
 	},
 	{
 		"Brand": "Behringer",
@@ -49028,6 +49077,13 @@
 		"Width": 2.86,
 		"Height": 4.8,
 		"Image": "tc-plethora-x1.png"
+	},
+	{
+		"Brand": "TC Electronic",
+		"Name": "Plethora X1 Neo",
+		"Width": 2.86,
+		"Height": 4.8,
+		"Image": "tc-plethora-x1-neo.png"
 	},
 	{
 		"Brand": "TC Electronic",
