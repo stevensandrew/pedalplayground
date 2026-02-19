@@ -10782,6 +10782,13 @@
 	},
 	{
 		"Brand": "DanDrive",
+		"Name": "Austin Blender",
+		"Width": 2.6,
+		"Height": 4.89,
+		"Image": "dandrive-austin-blender.png"
+	},
+	{
+		"Brand": "DanDrive",
 		"Name": "Austin Pride Fuzz",
 		"Width": 2.6,
 		"Height": 4.89,
@@ -10796,24 +10803,73 @@
 	},
 	{
 		"Brand": "DanDrive",
-		"Name": "Secret Machine Fuzz",
+		"Name": "Bonk Machine (Joey Landreth)",
+		"Width": 2.6,
+		"Height": 4.89,
+		"Image": "dandrive-bonk-machine-joey-landreth.png"
+	},
+	{
+		"Brand": "DanDrive",
+		"Name": "Bonk Machine 2",
+		"Width": 2.6,
+		"Height": 4.89,
+		"Image": "dandrive-bonk-machine-2.png"
+	},
+	{
+		"Brand": "DanDrive",
+		"Name": "One Knob Bonk",
+		"Width": 2.6,
+		"Height": 4.89,
+		"Image": "dandrive-one-knob-bonk.png"
+	},
+	{
+		"Brand": "DanDrive",
+		"Name": "Secret Engine",
+		"Width": 2.6,
+		"Height": 4.89,
+		"Image": "dandrive-secret-engine.png"
+	},
+	{
+		"Brand": "DanDrive",
+		"Name": "Secret Machine",
 		"Width": 2.6,
 		"Height": 4.89,
 		"Image": "dandrive-secret-machine.png"
 	},
 	{
 		"Brand": "DanDrive",
-		"Name": "Secret Weapon Fuzz",
+		"Name": "Secret Machine MKII",
+		"Width": 2.6,
+		"Height": 4.89,
+		"Image": "dandrive-secret-machine-mk2.png"
+	},
+	{
+		"Brand": "DanDrive",
+		"Name": "Secret Weapon",
 		"Width": 2.6,
 		"Height": 4.89,
 		"Image": "dandrive-secret-weapon.png"
 	},
 	{
 		"Brand": "DanDrive",
-		"Name": "Tweedy Overdrive",
+		"Name": "Secret Weapon MKII",
+		"Width": 2.6,
+		"Height": 4.89,
+		"Image": "dandrive-secret-weapon-mk2.png"
+	},
+	{
+		"Brand": "DanDrive",
+		"Name": "Tweedy 5B3",
 		"Width": 2.6,
 		"Height": 4.89,
 		"Image": "dandrive-tweedy.png"
+	},
+	{
+		"Brand": "DanDrive",
+		"Name": "Tweedy 5E8-A",
+		"Width": 2.6,
+		"Height": 4.89,
+		"Image": "dandrive-tweedy-5e8a.png"
 	},
 	{
 		"Brand": "Danelectro",
@@ -33956,6 +34012,48 @@
 		"Width": 13.27,
 		"Height": 6.6,
 		"Image": "mooer-ge1000.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "GE150 Max",
+		"Width": 12.2,
+		"Height": 7.53,
+		"Image": "mooer-ge150-max.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "GE150 Max Li",
+		"Width": 12.2,
+		"Height": 7.53,
+		"Image": "mooer-ge150-max-li.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "GE150 Plus",
+		"Width": 10.6,
+		"Height": 5.91,
+		"Image": "mooer-ge150-plus.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "GE150 Plus Li",
+		"Width": 10.6,
+		"Height": 5.91,
+		"Image": "mooer-ge150-plus-li.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "GE150 Pro",
+		"Width": 12.2,
+		"Height": 6.25,
+		"Image": "mooer-ge150-pro.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "GE150 Pro Li",
+		"Width": 12.2,
+		"Height": 6.25,
+		"Image": "mooer-ge150-pro-li.png"
 	},
 	{
 		"Brand": "Mooer",
