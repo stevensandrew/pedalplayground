@@ -1557,7 +1557,7 @@
         "Brand": "Amptweaker",
         "Name": "Bass Tight Fuzz",
         "Width": 3.6875,
-        "Height": 4.875,
+        "Height": 5.29,
         "Image": "amptweaker-bass-tightfuzz.png"
     },
     {
@@ -13030,7 +13030,7 @@
         "Brand": "Dr Scientist",
         "Name": "Spectrum Analyzer",
         "Width": 4.8,
-        "Height": 2.2,
+        "Height": 2.5,
         "Image": "dr-scientist-spectrum-analyzer.png"
     },
     {
@@ -19258,6 +19258,13 @@
     },
     {
         "Brand": "Foxrox",
+        "Name": "Captain Coconut 2",
+        "Width": 10.125,
+        "Height": 6.875,
+        "Image": "foxrox-captain-coconut2.png"
+    },
+    {
+        "Brand": "Foxrox",
         "Name": "Festival",
         "Width": 5.5,
         "Height": 5,
@@ -19286,6 +19293,13 @@
     },
     {
         "Brand": "Foxrox",
+        "Name": "Octron 2 (Brown)",
+        "Width": 5.5,
+        "Height": 5,
+        "Image": "foxrox-octron2-brown.png"
+    },
+    {
+        "Brand": "Foxrox",
         "Name": "Octron 3",
         "Width": 3,
         "Height": 5,
@@ -19300,10 +19314,24 @@
     },
     {
         "Brand": "Foxrox",
+        "Name": "Paradox TZF",
+        "Width": 7,
+        "Height": 6.875,
+        "Image": "foxrox-paradox-tzf.png"
+    },
+    {
+        "Brand": "Foxrox",
         "Name": "Paradox TZF2",
         "Width": 5.5,
         "Height": 5,
         "Image": "foxrox-paradox-tzf2.png"
+    },
+    {
+        "Brand": "Foxrox",
+        "Name": "Paradox TZF2 Green",
+        "Width": 5,
+        "Height": 4.8,
+        "Image": "foxrox-paradox-tzf2-green.png"
     },
     {
         "Brand": "Foxrox",
@@ -23364,6 +23392,13 @@
         "Width": 2.38,
         "Height": 2,
         "Image": "henretta-purple-octopus.png"
+    },
+    {
+        "Brand": "Heptode",
+        "Name": "Virtuoso",
+        "Width": 6,
+        "Height": 3.5,
+        "Image": "heptode-virtuoso.png"
     },
     {
         "Brand": "Hexe FX",
@@ -49299,6 +49334,13 @@
         "Width": 3.7,
         "Height": 4.85,
         "Image": "tc-chorus-pitch-flanger-gold.png"
+    },
+    {
+        "Brand": "TC Electronic",
+        "Name": "Stereo Chorus+ Pitch Modulator & Flanger Gold Special Edition",
+        "Width": 3.7,
+        "Height": 4.85,
+        "Image": "tc-chorus-pitch-flanger-gold-se.png"
     },
     {
         "Brand": "TC Electronic",
