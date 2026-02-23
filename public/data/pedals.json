@@ -9663,28 +9663,35 @@
 	{
 		"Brand": "Coffee Shop Pedals",
 		"Name": "Affogato",
-		"Width": 2.67,
+		"Width": 2.62,
 		"Height": 4.5,
 		"Image": "coffeshoppedals-affogato.png"
 	},
 	{
 		"Brand": "Coffee Shop Pedals",
+		"Name": "Cold Brew",
+		"Width": 2.8,
+		"Height": 4.85,
+		"Image": "coffeshoppedals-cold-brew.png"
+	},
+	{
+		"Brand": "Coffee Shop Pedals",
 		"Name": "Cortado",
-		"Width": 2.67,
+		"Width": 2.62,
 		"Height": 4.5,
 		"Image": "coffeshoppedals-cortado.png"
 	},
 	{
 		"Brand": "Coffee Shop Pedals",
 		"Name": "Donut Hole",
-		"Width": 2.67,
-		"Height": 4.64,
+		"Width": 2.62,
+		"Height": 4.63,
 		"Image": "coffeshoppedals-donut-hole.png"
 	},
 	{
 		"Brand": "Coffee Shop Pedals",
 		"Name": "London Fog",
-		"Width": 2.89,
+		"Width": 2.8,
 		"Height": 4.85,
 		"Image": "coffeshoppedals-london-fog.png"
 	},
@@ -9897,6 +9904,48 @@
 		"Width": 3.11,
 		"Height": 5,
 		"Image": "colortone-zerosum.png"
+	},
+	{
+		"Brand": "Comodoro",
+		"Name": "Chorus Rat Bass",
+		"Width": 4.7,
+		"Height": 3.89,
+		"Image": "comodoro-chorus-rat-bass.png"
+	},
+	{
+		"Brand": "Comodoro",
+		"Name": "Comodoro Booster",
+		"Width": 2.64,
+		"Height": 4.56,
+		"Image": "comodoro-comodoro-booster.png"
+	},
+	{
+		"Brand": "Comodoro",
+		"Name": "Double Rat Bass",
+		"Width": 4.7,
+		"Height": 3.89,
+		"Image": "comodoro-double-rat-bass.png"
+	},
+	{
+		"Brand": "Comodoro",
+		"Name": "Percolator Fuzz",
+		"Width": 2.6,
+		"Height": 5.1,
+		"Image": "comodoro-percolator-fuzz.png"
+	},
+	{
+		"Brand": "Comodoro",
+		"Name": "Rat Bass",
+		"Width": 2.6,
+		"Height": 5.1,
+		"Image": "comodoro-rat-bass.png"
+	},
+	{
+		"Brand": "Comodoro",
+		"Name": "Sabon",
+		"Width": 3.85,
+		"Height": 4.91,
+		"Image": "comodoro-sabon.png"
 	},
 	{
 		"Brand": "Concrete Sound Lab",
@@ -12098,6 +12147,13 @@
 	},
 	{
 		"Brand": "DigiTech",
+		"Name": "CF-7 Chorus Factory",
+		"Width": 3.13,
+		"Height": 4.87,
+		"Image": "digitech-cf7.png"
+	},
+	{
+		"Brand": "DigiTech",
 		"Name": "CR-7 Stereo Chorus",
 		"Width": 3.43,
 		"Height": 5.25,
@@ -13094,35 +13150,42 @@
 		"Brand": "Dr Scientist",
 		"Name": "Bitquest",
 		"Width": 2.71,
-		"Height": 5.03,
+		"Height": 4.97,
 		"Image": "dr-scientist-bitquest.png"
 	},
 	{
 		"Brand": "Dr Scientist",
 		"Name": "BoostBot",
-		"Width": 2.84,
+		"Width": 2.75,
 		"Height": 2,
 		"Image": "dr-scientist-boostbot.png"
 	},
 	{
 		"Brand": "Dr Scientist",
+		"Name": "BoostBot Studio",
+		"Width": 2.75,
+		"Height": 2,
+		"Image": "dr-scientist-boostbot-studio.png"
+	},
+	{
+		"Brand": "Dr Scientist",
 		"Name": "Dusk",
 		"Width": 2.71,
-		"Height": 5.03,
+		"Height": 4.97,
 		"Image": "dr-scientist-dusk.png"
 	},
 	{
 		"Brand": "Dr Scientist",
 		"Name": "Frazz Dazzler",
 		"Width": 2.71,
-		"Height": 5.03,
+		"Height": 4.97,
 		"Image": "dr-scientist-frazz-dazzler.png"
 	},
 	{
 		"Brand": "Dr Scientist",
 		"Name": "Phreak",
 		"Width": 2.71,
-		"Height":5.03,
+		"Height": 4.97,
 		"Image": "dr-scientist-phreak.png"
 	},
 	{
@@ -13134,23 +13197,30 @@
 	},
 	{
 		"Brand": "Dr Scientist",
+		"Name": "Spectrum Analyzer",
+		"Width": 2.71,
+		"Height": 2.2,
+		"Image": "dr-scientist-spectrum-analyzer.png"
+	},
+	{
+		"Brand": "Dr Scientist",
 		"Name": "Sunny Day Delay",
 		"Width": 2.71,
-		"Height": 5.03,
+		"Height": 4.97,
 		"Image": "dr-scientist-sunny-day-delay.png"
 	},
 	{
 		"Brand": "Dr Scientist",
 		"Name": "The Atmosphere",
 		"Width": 2.71,
-		"Height": 5.03,
+		"Height": 4.97,
 		"Image": "dr-scientist-the-atmosphere.png"
 	},
 	{
 		"Brand": "Dr Scientist",
 		"Name": "The Elements",
 		"Width": 2.71,
-		"Height": 4.91,
+		"Height": 4.97,
 		"Image": "dr-scientist-the-elements.png"
 	},
 	{
@@ -19098,6 +19168,48 @@
 	},
 	{
 		"Brand": "Formula B",
+		"Name": "Aries Fuzz",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "formula-b-aries-fuzz.png"
+	},
+	{
+		"Brand": "Formula B",
+		"Name": "Eighty Master",
+		"Width": 4.7,
+		"Height": 3.85,
+		"Image": "formula-b-eighty-master.png"
+	},
+	{
+		"Brand": "Formula B",
+		"Name": "Fuzz Box Experience",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "formula-b-fuzz-box-experience.png"
+	},
+	{
+		"Brand": "Formula B",
+		"Name": "Fuzz Rangers",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "formula-b-fuzz-rangers.png"
+	},
+	{
+		"Brand": "Formula B",
+		"Name": "Qfilter",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "formula-b-qfilter.png"
+	},
+	{
+		"Brand": "Formula B",
+		"Name": "RatRace",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "formula-b-ratrace.png"
+	},
+	{
+		"Brand": "Formula B",
 		"Name": "Supa Tank",
 		"Width": 3.15,
 		"Height": 5.51,
@@ -19105,10 +19217,31 @@
 	},
 	{
 		"Brand": "Formula B",
+		"Name": "Super Plexi",
+		"Width": 4.83,
+		"Height": 2.79,
+		"Image": "formula-b-super-plexi.png"
+	},
+	{
+		"Brand": "Formula B",
+		"Name": "That Screamer",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "formula-b-that-screamer.png"
+	},
+	{
+		"Brand": "Formula B",
 		"Name": "Vintage-Vibe",
-		"Width": 3.7,
-		"Height": 4.95,
+		"Width": 6.5,
+		"Height": 4.49,
 		"Image": "formula-b-vintage-vibe.png"
+	},
+	{
+		"Brand": "Formula B",
+		"Name": "Vintage Vibe MK2",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "formula-b-vintage-vibe-mk2.png"
 	},
 	{
 		"Brand": "Fortin",
@@ -19567,24 +19700,185 @@
 	},
 	{
 		"Brand": "Fredric Effects",
+		"Name": "Accomplished Badger",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-the-accomplished-badger.png"
+	},
+	{
+		"Brand": "Fredric Effects",
 		"Name": "Blue Monarch",
-		"Width": 2.68,
-		"Height": 4.30,
+		"Width": 2.62,
+		"Height": 4.72,
 		"Image": "fredric-effects-blue-monarch.png"
 	},
 	{
 		"Brand": "Fredric Effects",
+		"Name": "Deeply Unpleasant Companion",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-deeply-unpleasant-companion.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Deeply Unpleasant Companion MKII",
+		"Width": 2.62,
+		"Height": 4.72,
+		"Image": "fredric-deeply-unpleasant-companion-mk2.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Demon Fuzz",
+		"Width": 2.62,
+		"Height": 4.72,
+		"Image": "fredric-demon-fuzz.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Dresden Synth Fuzz",
+		"Width": 3.39,
+		"Height": 5.9,
+		"Image": "fredric-dresden-synth-fuzz.png"
+	},
+	{
+		"Brand": "Fredric Effect2",
+		"Name": "Foxrite",
+		"Width": 2.62,
+		"Height": 4.72,
+		"Image": "fredric-foxrite.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Golden Eagle",
+		"Width": 2.62,
+		"Height": 4.72,
+		"Image": "fredric-golden-eagle.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Green Russian Muff",
+		"Width": 2.62,
+		"Height": 4.72,
+		"Image": "fredric-green-russian-muff.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Grumbly Wolf 15 Years Special",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-grumbly-wolf-15-years-special.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Harmonic Percolator",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-harmonic-percolator.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Mutant Fuzz",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-mutant-fuzz.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Pocket Weasel MKII",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-pocket-weasel-mk2.png"
+	},
+	{
+		"Brand": "Fredric Effects",
 		"Name": "Regent 150 preamp",
-		"Width": 2.68,
-		"Height": 4.29,
+		"Width": 2.62,
+		"Height": 4.72,
 		"Image": "fredric-effects-regent-150.png"
 	},
 	{
 		"Brand": "Fredric Effects",
+		"Name": "Scrambled Brainz",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-scrambled-brainz.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Silicon Harmonic Percolator",
+		"Width": 2.62,
+		"Height": 4.72,
+		"Image": "fredric-silicon-harmonic-percolator.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Square Wave Fuzz",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-square-wave-fuzz.png"
+	},
+	{
+		"Brand": "Fredric Effects",
 		"Name": "Standard Fuzz Machine",
-		"Width": 2.68,
-		"Height": 4.29,
+		"Width": 2.78,
+		"Height": 4.56,
 		"Image": "fredric-standard-fuzz.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Super Umpleasant Companion",
+		"Width": 3.39,
+		"Height": 5.9,
+		"Image": "fredric-super-unpleasant-companion.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Unpleasant Companion MKII",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-unpleasant-companion-mk2.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Utility Perkolator",
+		"Width": 3.39,
+		"Height": 5.9,
+		"Image": "fredric-utility-perkolator.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Verzerrer",
+		"Width": 3.39,
+		"Height": 5.9,
+		"Image": "fredric-verzerrer.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Warm Sound",
+		"Width": 2.62,
+		"Height": 4.72,
+		"Image": "fredric-warm-sound.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "West Germany Vintage Tremolo",
+		"Width": 2.78,
+		"Height": 4.56,
+		"Image": "fredric-west-germany-vintage-tremolo.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Zesty Comp",
+		"Width": 2.62,
+		"Height": 4.72,
+		"Image": "fredric-zesty-comp.png"
+	},
+	{
+		"Brand": "Fredric Effects",
+		"Name": "Zombie Klone",
+		"Width": 2.62,
+		"Height": 4.72,
+		"Image": "fredric-zombie-klone.png"
 	},
 	{
 		"Brand": "Free The Tone",
@@ -29544,8 +29838,8 @@
 		"Brand": "Kodex Audio",
 		"Name": "Burning Sunn",
 		"Width": 2.6,
-		"Height": 5.17,
-		"Image": "groundfx-burning-sunn.png"
+		"Height": 5.07,
+		"Image": "kodex-burning-sunn.png"
 	},
 	{
 		"Brand": "Kodex Audio",
@@ -29558,14 +29852,14 @@
 		"Brand": "Kodex Audio",
 		"Name": "Grayskull",
 		"Width": 2.6,
-		"Height": 5.09,
+		"Height": 5.07,
 		"Image": "kodex-grayskull.png"
 	},
 	{
 		"Brand": "Kodex Audio",
 		"Name": "Lux",
 		"Width": 2.6,
-		"Height": 5.09,
+		"Height": 5.07,
 		"Image": "kodex-lux.png"
 	},
 	{
@@ -30010,91 +30304,133 @@
 		"Image": "laney-black-country-boost.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
 		"Name": "88 Super Oscillo",
 		"Width": 2.81,
 		"Height": 4.53,
 		"Image": "lastgasp-88-super-oscillo-fuzz.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
 		"Name": "Angelring",
 		"Width": 2.81,
 		"Height": 4.6,
 		"Image": "lastgasp-angelring-clean-boost.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
+		"Name": "Angelwing",
+		"Width": 2.73,
+		"Height": 4.53,
+		"Image": "lastgasp-angelwing.png"
+	},
+	{
+		"Brand": "Lastgasp",
+		"Name": "Cyber Psychic",
+		"Width": 4.7,
+		"Height": 3.83,
+		"Image": "lastgasp-lalfxcp.png"
+	},
+	{
+		"Brand": "Lastgasp",
 		"Name": "Deviltail",
 		"Width": 2.81,
 		"Height": 4.6,
 		"Image": "lastgasp-deviltail-deathtortion-distortion.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
+		"Name": "Drone Box 2",
+		"Width": 4.7,
+		"Height": 3.83,
+		"Image": "lastgasp-lalindb2.png"
+	},
+	{
+		"Brand": "Lastgasp",
+		"Name": "Dualoscillo Fuzz",
+		"Width": 4.7,
+		"Height": 3.83,
+		"Image": "lastgasp-lalfx89.png"
+	},
+	{
+		"Brand": "Lastgasp",
 		"Name": "Flikrrr",
 		"Width": 2.81,
 		"Height": 4.53,
 		"Image": "lastgasp-flikrrr.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
 		"Name": "Gomorrah",
 		"Width": 2.81,
 		"Height": 4.53,
 		"Image": "lastgasp-gomorrah-subharmonic-fuzz.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
+		"Name": "Hypnospiral",
+		"Width": 4.7,
+		"Height": 3.87,
+		"Image": "lastgasp-lalfxhys.png"
+	},
+	{
+		"Brand": "Lastgasp",
 		"Name": "Lluna",
 		"Width": 2.81,
 		"Height": 4.53,
 		"Image": "lastgasp-lluna-fuzz-voltage-dropper.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
 		"Name": "Misty Cave",
-		"Width": 4.72,
-		"Height": 3.86,
+		"Width": 4.7,
+		"Height": 3.87,
 		"Image": "lastgasp-misty-cave-resonance-echo.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
 		"Name": "Octavella",
 		"Width": 2.81,
 		"Height": 4.53,
 		"Image": "lastgasp-octavella-octave-feedback-fuzz.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
 		"Name": "Sandstorm",
-		"Width": 4.72,
-		"Height": 3.86,
+		"Width": 4.7,
+		"Height": 3.83,
 		"Image": "lastgasp-sandstorm-envelope-noise-generator.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
 		"Name": "Sooper Fuzz 46",
 		"Width": 2.81,
 		"Height": 4.53,
 		"Image": "lastgasp-sooper-fuzz-46.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
 		"Name": "Thunder Box",
 		"Width": 2.81,
 		"Height": 4.6,
 		"Image": "lastgasp-thunder-box-donsharizer-boost.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
 		"Name": "Tone Axe",
 		"Width": 2.81,
 		"Height": 4.6,
 		"Image": "lastgasp-tone-axe-frequency-divider-fuzz.png"
 	},
 	{
-		"Brand": "LastGasp",
+		"Brand": "Lastgasp",
+		"Name": "Tone Mosaique",
+		"Width": 4.7,
+		"Height": 3.83,
+		"Image": "lastgasp-tone-mosaique.png"
+	},
+	{
+		"Brand": "Lastgasp",
 		"Name": "Toxic Plant",
 		"Width": 2.81,
 		"Height": 4.53,
@@ -33044,8 +33380,43 @@
 		"Brand": "Mile End Effects",
 		"Name": "Echolette NG-51 Pre-amp",
 		"Width": 4.7,
-		"Height": 4.07,
+		"Height": 3.92,
 		"Image": "mile-end-ng51.png"
+	},
+	{
+		"Brand": "Mile End Effects",
+		"Name": "Julep",
+		"Width": 7.4,
+		"Height": 4.82,
+		"Image": "mile-end-julep.png"
+	},
+	{
+		"Brand": "Mile End Effects",
+		"Name": "Kollaps",
+		"Width": 4.7,
+		"Height": 7.63,
+		"Image": "mile-end-kollaps.png"
+	},
+	{
+		"Brand": "Mile End Effects",
+		"Name": "Mtherfcker=Rptr",
+		"Width": 7.4,
+		"Height": 4.82,
+		"Image": "mile-end-mthrfckr=rptr.png"
+	},
+	{
+		"Brand": "Mile End Effects",
+		"Name": "Pique",
+		"Width": 4.02,
+		"Height": 4.78,
+		"Image": "mile-end-pique.png"
+	},
+	{
+		"Brand": "Mile End Effects",
+		"Name": "Preamp-150",
+		"Width": 3.7,
+		"Height": 4.94,
+		"Image": "mile-end-preamp-150.png"
 	},
 	{
 		"Brand": "Milkman Sound",
@@ -44088,17 +44459,59 @@
 	},
 	{
 		"Brand": "RYRA",
-		"Name": "Klone",
-		"Width": 4.67,
-		"Height": 3.7,
+		"Name": "Fuzz A-Matic (White)",
+		"Width": 2.6,
+		"Height": 4.87,
+		"Image": "ryra-fuzz-a-matic-white.png"
+	},
+	{
+		"Brand": "RYRA",
+		"Name": "Fuzz A-Matic (Yellow)",
+		"Width": 2.6,
+		"Height": 4.87,
+		"Image": "ryra-fuzz-a-matic.png"
+	},
+	{
+		"Brand": "RYRA",
+		"Name": "The 808",
+		"Width": 2.6,
+		"Height": 4.87,
+		"Image": "ryra-808.png"
+	},
+	{
+		"Brand": "RYRA",
+		"Name": "The Klone",
+		"Width": 4.7,
+		"Height": 3.86,
+		"Image": "ryra-klone.png"
+	},
+	{
+		"Brand": "RYRA",
+		"Name": "The Klone (Black Cherry)",
+		"Width": 4.7,
+		"Height": 3.86,
+		"Image": "ryra-klone-black-cherry.png"
+	},
+	{
+		"Brand": "RYRA",
+		"Name": "The Klone (Gold)",
+		"Width": 4.7,
+		"Height": 3.86,
+		"Image": "ryra-klone-gold.png"
+	},
+	{
+		"Brand": "RYRA",
+		"Name": "The Klone (Sea Foam Green)",
+		"Width": 4.7,
+		"Height": 3.86,
 		"Image": "ryra-klone-seafoam.png"
 	},
 	{
 		"Brand": "RYRA",
-		"Name": "Klone (gold)",
-		"Width": 4.67,
-		"Height": 3.7,
-		"Image": "ryra-klone-gold.png"
+		"Name": "The Tri-Pi Muff",
+		"Width": 2.6,
+		"Height": 4.87,
+		"Image": "ryra-tri-pi-muff.png"
 	},
 	{
 		"Brand": "Sadowsky",
@@ -46874,10 +47287,31 @@
 	},
 	{
 		"Brand": "Stomp Under Foot",
+		"Name": "Civil War",
+		"Width": 2.98,
+		"Height": 4.81,
+		"Image": "stomp-under-foot-civil-war.png"
+	},
+	{
+		"Brand": "Stomp Under Foot",
+		"Name": "Green Russian",
+		"Width": 2.98,
+		"Height": 4.81,
+		"Image": "stomp-under-foot-green-russian.png"
+	},
+	{
+		"Brand": "Stomp Under Foot",
 		"Name": "Pumpkin Pi",
-		"Width": 2.85,
-		"Height": 4.5,
+		"Width": 2.98,
+		"Height": 4.81,
 		"Image": "stomp-under-foot-pumpkin-pi.png"
+	},
+	{
+		"Brand": "Stomp Under Foot",
+		"Name": "Ram's Head",
+		"Width": 2.98,
+		"Height": 4.81,
+		"Image": "stomp-under-foot-rams-head.png"
 	},
 	{
 		"Brand": "Stomp Under Foot",
@@ -46885,6 +47319,13 @@
 		"Width": 2.85,
 		"Height": 4.5,
 		"Image": "stomp-under-foot-red-menace.png"
+	},
+	{
+		"Brand": "Stomp Under Foot",
+		"Name": "Silver Foxx",
+		"Width": 3.7,
+		"Height": 4.93,
+		"Image": "stomp-under-foot-silver-foxx.png"
 	},
 	{
 		"Brand": "Stomp Under Foot",
@@ -46899,6 +47340,13 @@
 		"Width": 2.85,
 		"Height": 4.5,
 		"Image": "stomp-under-foot-skinner-box.png"
+	},
+	{
+		"Brand": "Stomp Under Foot",
+		"Name": "Son Of A Bee",
+		"Width": 2.98,
+		"Height": 4.81,
+		"Image": "stomp-under-foot-son-of-a-bee.png"
 	},
 	{
 		"Brand": "Stomp Under Foot",
@@ -54432,6 +54880,13 @@
 		"Width": 2.78,
 		"Height": 5,
 		"Image": "wampler-germanium-tumnus-deluxe.png"
+	},
+	{
+		"Brand": "Wampler",
+		"Name": "Golden Jubilee",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "wampler-golden-jubilee.png"
 	},
 	{
 		"Brand": "Wampler",
