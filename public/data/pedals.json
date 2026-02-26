@@ -26385,6 +26385,13 @@
 	},
 	{
 		"Brand": "JHS",
+		"Name": "Double Dragon",
+		"Width": 2.6,
+		"Height": 5.01,
+		"Image": "jhs-double-dragon.png"
+	},
+	{
+		"Brand": "JHS",
 		"Name": "Emperor",
 		"Width": 4.85,
 		"Height": 3.9,
@@ -29073,6 +29080,13 @@
 	},
 	{
 		"Brand": "KHDK",
+		"Name": "Infernal Drive (Michael Amott)",
+		"Width": 2.6,
+		"Height": 4.99,
+		"Image": "khdk-infernal-drive.png"
+	},
+	{
+		"Brand": "KHDK",
 		"Name": "My Big Fat Rawk",
 		"Width": 2.6,
 		"Height": 4.99,
@@ -31443,6 +31457,13 @@
 		"Width": 2.42,
 		"Height": 4.58,
 		"Image": "lpd-sixty8.png"
+	},
+	{
+		"Brand": "LPD",
+		"Name": "Sixty8X",
+		"Width": 2.42,
+		"Height": 4.58,
+		"Image": "lpd-sixty8x.png"
 	},
 	{
 		"Brand": "LPD",
