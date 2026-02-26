@@ -1081,7 +1081,7 @@
 		"Brand": "Alexander",
 		"Name": "Forget-Me-Not",
 		"Width": 5.7,
-		"Height": 4.98,
+		"Height": 4.95,
 		"Image": "alexander-forget-me-not.png"
 	},
 	{
@@ -1328,6 +1328,13 @@
 		"Width": 4.7,
 		"Height": 3.86,
 		"Image": "alexander-syntaxerror2.png"
+	},
+	{
+		"Brand": "Alexander",
+		"Name": "Syntax Error XP",
+		"Width": 2.89,
+		"Height": 4.88,
+		"Image": "alexander-syntax-error-xp.png"
 	},
 	{
 		"Brand": "Alexander",
@@ -51121,6 +51128,13 @@
 		"Width": 7.2,
 		"Height": 5.67,
 		"Image": "toneking-imperial-preamp.png"
+	},
+	{
+		"Brand": "Tone King",
+		"Name": "Royalist Preamp",
+		"Width": 7.2,
+		"Height": 5.67,
+		"Image": "toneking-royalist-preamp.png"
 	},
 	{
 		"Brand": "ToneTuga FX",
