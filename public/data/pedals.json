@@ -7184,10 +7184,24 @@
 	},
 	{
 		"Brand": "Browne Amplification",
-		"Name": "Carbon",
-		"Width": 2.79,
+		"Name": "Alkene",
+		"Width": 2.85,
 		"Height": 4.8,
-		"Image": "browneamps-carbon.png"
+		"Image": "browneamps-alkene.png"
+	},
+	{
+		"Brand": "Browne Amplification",
+		"Name": "Carbon V2 (Black)",
+		"Width": 2.85,
+		"Height": 4.8,
+		"Image": "browneamps-carbon-v2-black.png"
+	},
+	{
+		"Brand": "Browne Amplification",
+		"Name": "Carbon V2 (Blue)",
+		"Width": 2.85,
+		"Height": 4.8,
+		"Image": "browneamps-carbon-v2-blue.png"
 	},
 	{
 		"Brand": "Browne Amplification",
@@ -7219,17 +7233,45 @@
 	},
 	{
 		"Brand": "Browne Amplification",
-		"Name": "Ethane",
+		"Name": "Ethane (Aqua Copper)",
 		"Width": 4.7,
-		"Height": 3.94,
+		"Height": 3.88,
+		"Image": "browneamps-ethane-aqua-copper.png"
+	},
+	{
+		"Brand": "Browne Amplification",
+		"Name": "Ethane (Black)",
+		"Width": 4.7,
+		"Height": 3.88,
+		"Image": "browneamps-ethane-black.png"
+	},
+	{
+		"Brand": "Browne Amplification",
+		"Name": "Ethane (Black Silver)",
+		"Width": 4.7,
+		"Height": 3.88,
 		"Image": "browneamps-ethane.png"
 	},
 	{
 		"Brand": "Browne Amplification",
-		"Name": "Gritador",
-		"Width": 2.79,
+		"Name": "Ethane (Blue Silver)",
+		"Width": 4.7,
+		"Height": 3.88,
+		"Image": "browneamps-ethane-blue-silver.png"
+	},
+	{
+		"Brand": "Browne Amplification",
+		"Name": "Gritador (Black)",
+		"Width": 2.85,
 		"Height": 4.8,
 		"Image": "browneamps-gritador.png"
+	},
+	{
+		"Brand": "Browne Amplification",
+		"Name": "Gritador (Green)",
+		"Width": 2.85,
+		"Height": 4.8,
+		"Image": "browneamps-gritador-green.png"
 	},
 	{
 		"Brand": "Browne Amplification",
@@ -7282,10 +7324,24 @@
 	},
 	{
 		"Brand": "Browne Amplification",
+		"Name": "Protein V4 (Aqua Copper)",
+		"Width": 4.7,
+		"Height": 3.88,
+		"Image": "browneamps-protein-4-aqua-copper.png"
+	},
+	{
+		"Brand": "Browne Amplification",
 		"Name": "Protein V4 (Black)",
 		"Width": 4.7,
 		"Height": 3.92,
 		"Image": "browneamps-protein-4-black.png"
+	},
+	{
+		"Brand": "Browne Amplification",
+		"Name": "Protein V4 (Blue)",
+		"Width": 4.7,
+		"Height": 3.92,
+		"Image": "browneamps-protein-4-blue.png"
 	},
 	{
 		"Brand": "Browne Amplification",
@@ -7310,6 +7366,13 @@
 	},
 	{
 		"Brand": "Browne Amplification",
+		"Name": "Protein V4 (Purple)",
+		"Width": 4.7,
+		"Height": 3.88,
+		"Image": "browneamps-protein-4-purple.png"
+	},
+	{
+		"Brand": "Browne Amplification",
 		"Name": "Protein V4 (White)",
 		"Width": 4.7,
 		"Height": 3.92,
@@ -7318,15 +7381,15 @@
 	{
 		"Brand": "Browne Amplification",
 		"Name": "SSHAC",
-		"Width": 2.79,
+		"Width": 2.85,
 		"Height": 4.8,
 		"Image": "browne-sshac.png"
 	},
 	{
 		"Brand": "Browne Amplification",
 		"Name": "T4",
-		"Width": 2.79,
-		"Height": 5.03,
+		"Width": 2.85,
+		"Height": 5,
 		"Image": "browne-t4.png"
 	},
 	{
