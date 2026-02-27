@@ -22738,6 +22738,13 @@
 	},
 	{
 		"Brand": "GUPTech",
+		"Name": "Trou D'Beigne",
+		"Width": 2,
+		"Height": 3.76,
+		"Image": "guptech-trou-d-beigne.png"
+	},
+	{
+		"Brand": "GUPTech",
 		"Name": "Voodoo Doll Univibe",
 		"Width": 2.6,
 		"Height": 5.06,
@@ -24082,10 +24089,24 @@
 	},
 	{
 		"Brand": "Hotone",
+		"Name": "Ampero Press (25kΩ Edition)",
+		"Width": 3.1,
+		"Height": 6.38,
+		"Image": "hotone-ampero-press-25ohm.png"
+	},
+	{
+		"Brand": "Hotone",
 		"Name": "Ampero Switch",
 		"Width": 3.94,
 		"Height": 1.58,
 		"Image": "hotone-ampero-switch.png"
+	},
+	{
+		"Brand": "Hotone",
+		"Name": "Ampero Switch+",
+		"Width": 4.02,
+		"Height": 2.57,
+		"Image": "hotone-ampero-switch-plus.png"
 	},
 	{
 		"Brand": "Hotone",
@@ -24191,6 +24212,13 @@
 		"Width": 15.87,
 		"Height": 2.11,
 		"Image": "hotone-patch-kommander.png"
+	},
+	{
+		"Brand": "Hotone",
+		"Name": "Pulze Control",
+		"Width": 4.02,
+		"Height": 2.54,
+		"Image": "hotone-pulze-control.png"
 	},
 	{
 		"Brand": "Hotone",
@@ -54012,6 +54040,13 @@
 		"Width": 2.88,
 		"Height": 4.84,
 		"Image": "walrus-canvas-rehearsal.png"
+	},
+	{
+		"Brand": "Walrus Audio",
+		"Name": "Canvas Rehearsal (Harvest)",
+		"Width": 2.88,
+		"Height": 4.84,
+		"Image": "walrus-canvas-rehearsal-harvest.png"
 	},
 	{
 		"Brand": "Walrus Audio",
