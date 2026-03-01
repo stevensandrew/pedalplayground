@@ -13643,6 +13643,13 @@
         "Image": "dtsart-sdd-3kp.png"
     },
     {
+        "Brand": "Duke Designs",
+        "Name": "Toe-N Control",
+        "Width": 2.85,
+        "Height": 4.47,
+        "Image": "duke-designs-toe-n-control.png"
+    },
+    {
         "Brand": "Dunable",
         "Name": "Eidolon",
         "Width": 4.7,
@@ -19259,7 +19266,7 @@
     {
         "Brand": "Foxrox",
         "Name": "Captain Coconut 2",
-        "Width": 10.125,
+        "Width": 10.625,
         "Height": 6.875,
         "Image": "foxrox-captain-coconut2.png"
     },
@@ -19528,6 +19535,13 @@
         "Width": 2.68,
         "Height": 4.29,
         "Image": "fredric-standard-fuzz.png"
+    },
+    {
+        "Brand": "Fredric Effects",
+        "Name": "Nouveau Super Unpleasant Companion",
+        "Width": 3.24,
+        "Height": 5.50,
+        "Image": "fredric-nouveau-super-unpleasant-companion.png"
     },
     {
         "Brand": "Free The Tone",
@@ -40972,6 +40986,13 @@
     },
     {
         "Brand": "PastFX",
+        "Name": "Retiklon",
+        "Width": 2.67,
+        "Height": 4.5,
+        "Image": "pastfx-retiklon.png"
+    },
+    {
+        "Brand": "PastFX",
         "Name": "Revolution",
         "Width": 2.67,
         "Height": 4.5,
@@ -49768,6 +49789,13 @@
         "Width": 8.37,
         "Height": 2.26,
         "Image": "teenage-engineering-op-z.png"
+    },
+    {
+        "Brand": "Teese Real McCoy Custom",
+        "Name": "RMC3 Limited Edition",
+        "Width": 3.75,
+        "Height": 9.75,
+        "Image": "teese-real-mccoy-custom-rmc3-le.png"
     },
     {
         "Brand": "Teese Real McCoy Custom",
