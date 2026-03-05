@@ -41751,21 +41751,21 @@
 	{
 		"Brand": "Pedal Pawn",
 		"Name": "Chicken Quiff",
-		"Width": 2.76,
-		"Height": 4.5,
+		"Width": 2.79,
+		"Height": 4.58,
 		"Image": "pedal-pawn-chicken-quiff.png"
 	},
 	{
 		"Brand": "Pedal Pawn",
 		"Name": "Cowboy King",
-		"Width": 2.76,
-		"Height": 4.5,
+		"Width": 2.79,
+		"Height": 4.58,
 		"Image": "pedal-pawn-cowboy-king.png"
 	},
 	{
 		"Brand": "Pedal Pawn",
 		"Name": "Fuzz",
-		"Width": 2.81,
+		"Width": 2.79,
 		"Height": 4.5,
 		"Image": "pedal-pawn-fuzz.png"
 	},
@@ -41779,16 +41779,30 @@
 	{
 		"Brand": "Pedal Pawn",
 		"Name": "Germanium Fuzz (CV 7003)",
-		"Width": 2.81,
+		"Width": 2.79,
 		"Height": 4.5,
 		"Image": "pedal-pawn-germanium-fuzz.png"
 	},
 	{
 		"Brand": "Pedal Pawn",
 		"Name": "Germanium Fuzz (2N404)",
-		"Width": 2.81,
+		"Width": 2.79,
 		"Height": 4.5,
 		"Image": "pedal-pawn-germanium-fuzz-2n404.png"
+	},
+	{
+		"Brand": "Pedal Pawn",
+		"Name": "Great British Drive",
+		"Width": 2.79,
+		"Height": 4.58,
+		"Image": "pedal-pawn-great-british-drive.png"
+	},
+	{
+		"Brand": "Pedal Pawn",
+		"Name": "Gypsy Vibe",
+		"Width": 7.28,
+		"Height": 4.69,
+		"Image": "pedal-pawn-gypsy-vibe.png"
 	},
 	{
 		"Brand": "Pedal Pawn",
@@ -41807,15 +41821,15 @@
 	{
 		"Brand": "Pedal Pawn",
 		"Name": "Octone",
-		"Width": 2.76,
-		"Height": 4.5,
+		"Width": 2.79,
+		"Height": 4.58,
 		"Image": "pedal-pawn-octone.png"
 	},
 	{
 		"Brand": "Pedal Pawn",
 		"Name": "Texas Twang",
-		"Width": 2.81,
-		"Height": 4.5,
+		"Width": 2.79,
+		"Height": 4.58,
 		"Image": "pedal-pawn-texas-twang.png"
 	},
 	{
