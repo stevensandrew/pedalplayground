@@ -14557,14 +14557,28 @@
 		"Brand": "EarthQuaker",
 		"Name": "Avalanche Run V2",
 		"Width": 4.34,
-		"Height": 4.81,
+		"Height": 4.87,
 		"Image": "earthquaker-avalanche-run-v2.png"
+	},
+	{
+		"Brand": "EarthQuaker",
+		"Name": "Avalanche Run V2 (Black)",
+		"Width": 4.34,
+		"Height": 4.87,
+		"Image": "earthquaker-avalanche-run-v2-black.png"
+	},
+	{
+		"Brand": "EarthQuaker",
+		"Name": "Avalanche Run V2 (Mint)",
+		"Width": 4.34,
+		"Height": 4.87,
+		"Image": "earthquaker-avalanche-run-v2-mint.png"
 	},
 	{
 		"Brand": "EarthQuaker",
 		"Name": "Avalanche Run V2 (Purple Sparkle)",
 		"Width": 4.34,
-		"Height": 4.81,
+		"Height": 4.87,
 		"Image": "earthquaker-avalanche-run-v2-purple.png"
 	},
 	{
@@ -15082,7 +15096,7 @@
 		"Brand": "EarthQuaker",
 		"Name": "Pyramids",
 		"Width": 4.34,
-		"Height": 4.81,
+		"Height": 4.87,
 		"Image": "earthquaker-pyramids.png"
 	},
 	{
@@ -15294,6 +15308,13 @@
 		"Width": 2.84,
 		"Height": 4.5,
 		"Image": "earthquaker-tone-reaper.png"
+	},
+	{
+		"Brand": "EarthQuaker",
+		"Name": "Towers",
+		"Width": 4.34,
+		"Height": 4.87,
+		"Image": "earthquaker-towers.png"
 	},
 	{
 		"Brand": "EarthQuaker",
@@ -51282,6 +51303,13 @@
 		"Width": 2.6,
 		"Height": 5.06,
 		"Image": "tonewave-caramel.png"
+	},
+	{
+		"Brand": "Tonewave",
+		"Name": "Emery",
+		"Width": 2.6,
+		"Height": 5.06,
+		"Image": "tonewave-emery.png"
 	},
 	{
 		"Brand": "Tonewave",
