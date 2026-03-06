@@ -23137,6 +23137,34 @@
 	},
 	{
 		"Brand": "Harby",
+		"Name": "Centauri Mk-II",
+		"Width": 3.62,
+		"Height": 4.47,
+		"Image": "harby-centauri-mk2.png"
+	},
+	{
+		"Brand": "Harby",
+		"Name": "Mirage",
+		"Width": 3.62,
+		"Height": 4.47,
+		"Image": "harby-mirage.png"
+	},
+	{
+		"Brand": "Harby",
+		"Name": "Mizu",
+		"Width": 3.62,
+		"Height": 4.47,
+		"Image": "harby-mizu.png"
+	},
+	{
+		"Brand": "Harby",
+		"Name": "Mt Fuji",
+		"Width": 3.62,
+		"Height": 4.47,
+		"Image": "harby-mt-fuji.png"
+	},
+	{
+		"Brand": "Harby",
 		"Name": "Noble Tone",
 		"Width": 2.91,
 		"Height": 4.86,
@@ -23148,6 +23176,13 @@
 		"Width": 2.91,
 		"Height": 4.86,
 		"Image": "harby-pi-7c.png"
+	},
+	{
+		"Brand": "Harby",
+		"Name": "Wasabi",
+		"Width": 3.62,
+		"Height": 4.47,
+		"Image": "harby-wasabi.png"
 	},
 	{
 		"Brand": "Harley Benton",
