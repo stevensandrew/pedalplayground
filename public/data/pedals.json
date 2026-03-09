@@ -18679,9 +18679,23 @@
 	{
 		"Brand": "Fire Custom",
 		"Name": "Ariete Booster",
-		"Width": 2.61,
-		"Height": 4.52,
+		"Width": 2.16,
+		"Height": 3.74,
 		"Image": "fire-custom-ariete.png"
+	},
+	{
+		"Brand": "Fire Custom",
+		"Name": "Carpe Diem",
+		"Width": 4.4,
+		"Height": 2.78,
+		"Image": "fire-custom-carpe-diem.png"
+	},
+	{
+		"Brand": "Fire Custom",
+		"Name": "Carpe Diem Compact",
+		"Width": 2.21,
+		"Height": 3.74,
+		"Image": "fire-custom-carpe-diem-compact.png"
 	},
 	{
 		"Brand": "Fire-Eye",
@@ -21055,6 +21069,13 @@
 		"Width": 2.6,
 		"Height": 5,
 		"Image": "flb-1991.png"
+	},
+	{
+		"Brand": "Funny Little Boxes",
+		"Name": "Caught By The Fuzz",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "flb-caught-by-the-fuzz.png"
 	},
 	{
 		"Brand": "Funny Little Boxes",
