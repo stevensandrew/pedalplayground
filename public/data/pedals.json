@@ -8199,6 +8199,13 @@
 	},
 	{
 		"Brand": "Catalinbread",
+		"Name": "CB Paint",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-cb-paint.png"
+	},
+	{
+		"Brand": "Catalinbread",
 		"Name": "CSIDMAN",
 		"Width": 2.7,
 		"Height": 4.5,
@@ -20376,6 +20383,13 @@
 		"Width": 2.6,
 		"Height": 5,
 		"Image": "frost-giant-yama.png"
+	},
+	{
+		"Brand": "FruitFX",
+		"Name": "Melon Cube",
+		"Width": 5.1,
+		"Height": 2.72,
+		"Image": "fruitfx-melon-cube.png"
 	},
 	{
 		"Brand": "FTelettronica",
