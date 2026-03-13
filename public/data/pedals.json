@@ -9109,6 +9109,13 @@
 	},
 	{
 		"Brand": "Chase Bliss",
+		"Name": "Brothers AM (Monochrome)",
+		"Width": 2.86,
+		"Height": 4.86,
+		"Image": "chasebliss-brothers-am-monochrome.png"
+	},
+	{
+		"Brand": "Chase Bliss",
 		"Name": "Clean",
 		"Width": 2.86,
 		"Height": 4.86,
@@ -9204,6 +9211,13 @@
 		"Width": 2.86,
 		"Height": 4.86,
 		"Image": "chasebliss-lossy.png"
+	},
+	{
+		"Brand": "Chase Bliss",
+		"Name": "Lossy (Monochrome)",
+		"Width": 2.86,
+		"Height": 4.86,
+		"Image": "chasebliss-lossy-monochrome.png"
 	},
 	{
 		"Brand": "Chase Bliss",
@@ -22182,6 +22196,20 @@
 		"Width": 9.5,
 		"Height": 5.5,
 		"Image": "grace-design-felix.png"
+	},
+	{
+		"Brand": "Grace Design",
+		"Name": "Felix2",
+		"Width": 9.5,
+		"Height": 5.5,
+		"Image": "grace-design-felix2.png"
+	},
+	{
+		"Brand": "Grace Design",
+		"Name": "Felix2 (Black)",
+		"Width": 9.5,
+		"Height": 5.5,
+		"Image": "grace-design-felix2-black.png"
 	},
 	{
 		"Brand": "Grace Design",
