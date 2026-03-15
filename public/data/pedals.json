@@ -23416,6 +23416,13 @@
     },
     {
         "Brand": "Hexe FX",
+        "Name": "Melusine IV",
+        "Width": 3.99,
+        "Height": 4.75,
+        "Image": "hexe-melusine-iv.png"
+    },
+    {
+        "Brand": "Hexe FX",
         "Name": "Revolver IV",
         "Width": 3.99,
         "Height": 4.75,
