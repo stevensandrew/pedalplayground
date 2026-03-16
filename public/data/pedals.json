@@ -18412,6 +18412,13 @@
 	},
 	{
 		"Brand": "Fender",
+		"Name": "EXP-1 Mustang Expression Pedal",
+		"Width": 3.78,
+		"Height": 8.66,
+		"Image": "fender-exp1.png"
+	},
+	{
+		"Brand": "Fender",
 		"Name": "Full Moon Distortion",
 		"Width": 4.02,
 		"Height": 5.03,
@@ -21734,6 +21741,13 @@
 		"Width": 2.95,
 		"Height": 5.32,
 		"Image": "gigrig-wetter.png"
+	},
+	{
+		"Brand": "Glitch Cloud Audio",
+		"Name": "Haze",
+		"Width": 2.85,
+		"Height": 4.82,
+		"Image": "glitch-cloud-haze.png"
 	},
 	{
 		"Brand": "Glou-Glou",
@@ -41596,6 +41610,13 @@
 	},
 	{
 		"Brand": "PastFX",
+		"Name": "OG-1",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-og1.png"
+	},
+	{
+		"Brand": "PastFX",
 		"Name": "Patriarch",
 		"Width": 2.67,
 		"Height": 4.5,
@@ -41607,6 +41628,13 @@
 		"Width": 5.01,
 		"Height": 3.7,
 		"Image": "pastfx-phase-v.png"
+	},
+	{
+		"Brand": "PastFX",
+		"Name": "Poly Chorus",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-poly-chorus.png"
 	},
 	{
 		"Brand": "PastFX",
@@ -44113,6 +44141,13 @@
 		"Width": 4.7,
 		"Height": 3.84,
 		"Image": "reuss-understate.png"
+	},
+	{
+		"Brand": "Revelation",
+		"Name": "Revenant",
+		"Width": 4.7,
+		"Height": 3.82,
+		"Image": "revelation-revenant.png"
 	},
 	{
 		"Brand": "Revv",
