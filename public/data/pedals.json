@@ -36037,6 +36037,20 @@
 		"Image": "moth-electric-p-isabella.png"
 	},
 	{
+		"Brand": "Moth Electric",
+		"Name": "P. isabella (Ram's Head)",
+		"Width": 3.7,
+		"Height": 4.84,
+		"Image": "moth-electric-p-isabella-rams-head.png"
+	},
+	{
+		"Brand": "Moth Electric",
+		"Name": "S. abbottii",
+		"Width": 3.7,
+		"Height": 4.84,
+		"Image": "moth-electric-s-abbottii.png"
+	},
+	{
 		"Brand": "MOYO",
 		"Name": "Mini Expression",
 		"Width": 2.125,
@@ -41582,6 +41596,13 @@
 	},
 	{
 		"Brand": "PastFX",
+		"Name": "Kurt's Cologne",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-kurts-cologne.png"
+	},
+	{
+		"Brand": "PastFX",
 		"Name": "Lowpass Filter PX-101",
 		"Width": 2.67,
 		"Height": 4.5,
@@ -43966,6 +43987,20 @@
 		"Width": 5,
 		"Height": 3.77,
 		"Image": "redwitch-zeus.png"
+	},
+	{
+		"Brand": "Redseven",
+		"Name": "Leviathan Preamp",
+		"Width": 6.5,
+		"Height": 5.66,
+		"Image": "redseven-leviathan-preamp.png"
+	},
+	{
+		"Brand": "Redseven",
+		"Name": "NGR-1",
+		"Width": 2.83,
+		"Height": 4.87,
+		"Image": "redseven-ngr1.png"
 	},
 	{
 		"Brand": "Retrograve",
