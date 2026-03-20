@@ -21611,24 +21611,31 @@
 	},
 	{
 		"Brand": "GigRig",
-		"Name": "G3S",
-		"Width": 17.33,
-		"Height": 5.12,
-		"Image": "gigrig-g3s.png"
-	},
-	{
-		"Brand": "GigRig",
 		"Name": "G3",
-		"Width": 17.33,
-		"Height": 5.12,
+		"Width": 17.45,
+		"Height": 5.21,
 		"Image": "gigrig-g3.png"
 	},
 	{
 		"Brand": "GigRig",
+		"Name": "G3S",
+		"Width": 17.45,
+		"Height": 5.21,
+		"Image": "gigrig-g3s.png"
+	},
+	{
+		"Brand": "GigRig",
 		"Name": "G3 Atom",
-		"Width": 11.4173,
-		"Height": 5.12,
+		"Width": 11.94,
+		"Height": 5.34,
 		"Image": "gigrig-g3-atom.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "G3S Atom",
+		"Width": 11.94,
+		"Height": 5.34,
+		"Image": "gigrig-g3s-atom.png"
 	},
 	{
 		"Brand": "GigRig",
@@ -21643,6 +21650,20 @@
 		"Width": 6.22,
 		"Height": 3.23,
 		"Image": "gigrig-genx14.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "GenX4LC",
+		"Width": 2.64,
+		"Height": 2.29,
+		"Image": "gigrig-genx4lc.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "GenX8",
+		"Width": 4.48,
+		"Height": 3.25,
+		"Image": "gigrig-genx8.png"
 	},
 	{
 		"Brand": "GigRig",
@@ -21667,6 +21688,20 @@
 	},
 	{
 		"Brand": "GigRig",
+		"Name": "Latchmo",
+		"Width": 1.97,
+		"Height": 2.13,
+		"Image": "gigrig-latchmo.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Latchmo X2",
+		"Width": 4.72,
+		"Height": 2.11,
+		"Image": "gigrig-latchmo-x2.png"
+	},
+	{
+		"Brand": "GigRig",
 		"Name": "MIDI Cinco Patch Bay",
 		"Width": 4.49,
 		"Height": 2.79,
@@ -21678,6 +21713,20 @@
 		"Width": 2.68,
 		"Height": 2.16,
 		"Image": "gigrig-midi-driver.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "More Or Less",
+		"Width": 2.9,
+		"Height": 2.3,
+		"Image": "gigrig-more-or-less.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Plus2",
+		"Width": 2.32,
+		"Height": 1.93,
+		"Image": "gigrig-plus2.png"
 	},
 	{
 		"Brand": "GigRig",
@@ -21723,10 +21772,17 @@
 	},
 	{
 		"Brand": "GigRig",
+		"Name": "TGR-1 Expression Pedal",
+		"Width": 4.13,
+		"Height": 11,
+		"Image": "gigrig-tgr1.png"
+	},
+	{
+		"Brand": "GigRig",
 		"Name": "Three 2 One V1",
-		"Width": 3.015748,
-		"Height": 4.52756,
-		"Image": "gigrig-three-2-one-v1.png"
+		"Width": 3.13,
+		"Height": 4.53,
+		"Image": "gigrig-three2one.png"
 	},
 	{
 		"Brand": "GigRig",
