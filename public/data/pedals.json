@@ -10131,6 +10131,13 @@
 	},
 	{
 		"Brand": "Coppersound",
+		"Name": "Ion",
+		"Width": 1.78,
+		"Height": 3.7,
+		"Image": "coppersound-ion.png"
+	},
+	{
+		"Brand": "Coppersound",
 		"Name": "Iris",
 		"Width": 1.78,
 		"Height": 3.7,
@@ -21605,8 +21612,8 @@
 	{
 		"Brand": "GigRig",
 		"Name": "G2",
-		"Width": 17.33,
-		"Height": 5.12,
+		"Width": 17.45,
+		"Height": 5.21,
 		"Image": "gigrig-g2.png"
 	},
 	{
@@ -31240,6 +31247,13 @@
 		"Width": 21,
 		"Height": 11,
 		"Image": "line6-helix-lt.png"
+	},
+	{
+		"Brand": "Line 6",
+		"Name": "Helix Stadium",
+		"Width": 16.41,
+		"Height": 9.5,
+		"Image": "line6-helix-stadium.png"
 	},
 	{
 		"Brand": "Line 6",
@@ -47046,6 +47060,13 @@
 		"Width": 3.8,
 		"Height": 2.1,
 		"Image": "source-audio-neurohub.png"
+	},
+	{
+		"Brand": "Source Audio",
+		"Name": "Pathways",
+		"Width": 2.88,
+		"Height": 4.5,
+		"Image": "source-audio-pathways.png"
 	},
 	{
 		"Brand": "Source Audio",
