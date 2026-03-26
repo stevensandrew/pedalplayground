@@ -11754,6 +11754,13 @@
 		"Image": "deathbyaudio-waveform-destroyer.png"
 	},
 	{
+		"Brand": "Decades",
+		"Name": "MultiJam",
+		"Width": 3.08,
+		"Height": 4.8,
+		"Image": "decades-multijam.png"
+	},
+	{
 		"Brand": "Decibelics",
 		"Name": "Angry Swede",
 		"Width": 2.06,
@@ -12833,6 +12840,13 @@
 	},
 	{
 		"Brand": "DOD",
+		"Name": "Compressor Sustainer FX80-B",
+		"Width": 3.35,
+		"Height": 5.13,
+		"Image": "dod-fx80b.png"
+	},
+	{
+		"Brand": "DOD",
 		"Name": "Chthonic Fuzz",
 		"Width": 2.88,
 		"Height": 4.68,
@@ -12973,6 +12987,13 @@
 	},
 	{
 		"Brand": "DOD",
+		"Name": "Stereo Turbo Chorus FX67",
+		"Width": 3.35,
+		"Height": 5.13,
+		"Image": "dod-fx67.png"
+	},
+	{
+		"Brand": "DOD",
 		"Name": "Super American Metal FX56",
 		"Width": 3.35,
 		"Height": 5.13,
@@ -12984,6 +13005,13 @@
 		"Width": 3.35,
 		"Height": 5.13,
 		"Image": "dod-fx56b.png"
+	},
+	{
+		"Brand": "DOD",
+		"Name": "Super Stereo Chorus FX68",
+		"Width": 3.35,
+		"Height": 5.13,
+		"Image": "dod-fx68.png"
 	},
 	{
 		"Brand": "DOD",
@@ -30109,6 +30137,13 @@
 	},
 	{
 		"Brand": "KMA",
+		"Name": "Stereo Headphone Amp",
+		"Width": 2.88,
+		"Height": 4.78,
+		"Image": "kma-audio-machines-stereo-headphone-amp.png"
+	},
+	{
+		"Brand": "KMA",
 		"Name": "Tyler",
 		"Width": 6,
 		"Height": 4.93,
@@ -36164,6 +36199,13 @@
 	},
 	{
 		"Brand": "Mr. Black",
+		"Name": "BB-74x",
+		"Width": 2.72,
+		"Height": 4.5,
+		"Image": "mrblack-bb74x.png"
+	},
+	{
+		"Brand": "Mr. Black",
 		"Name": "BloodMoon",
 		"Width": 2.72,
 		"Height": 4.5,
@@ -36213,6 +36255,13 @@
 	},
 	{
 		"Brand": "Mr. Black",
+		"Name": "DoomStick II",
+		"Width": 2.72,
+		"Height": 4.5,
+		"Image": "mrblack-doomstick2.png"
+	},
+	{
+		"Brand": "Mr. Black",
 		"Name": "DoubleChorus",
 		"Width": 2.72,
 		"Height": 4.5,
@@ -36220,10 +36269,10 @@
 	},
 	{
 		"Brand": "Mr. Black",
-		"Name": "DoomStick II",
-		"Width": 2.72,
-		"Height": 4.5,
-		"Image": "mrblack-doomstick2.png"
+		"Name": "Doubletracker Stereo",
+		"Width": 3.98,
+		"Height": 4.7,
+		"Image": "mrblack-doubletracker-stereo.png"
 	},
 	{
 		"Brand": "Mr. Black",
@@ -36381,7 +36430,14 @@
 	},
 	{
 		"Brand": "Mr. Black",
-		"Name": "Stereo Vintage Ensemble",
+		"Name": "Sludge Master",
+		"Width": 2.72,
+		"Height": 4.5,
+		"Image": "mr-black-sludge-master.png"
+	},
+	{
+		"Brand": "Mr. Black",
+		"Name": "Vintage Ensemble Stereo",
 		"Width": 3.98,
 		"Height": 4.7,
 		"Image": "mrblack-stereovintageensemble.png"
@@ -38891,6 +38947,13 @@
 		"Width": 3.7,
 		"Height": 4.84,
 		"Image": "native-audio-niisoo.png"
+	},
+	{
+		"Brand": "Native Audio",
+		"Name": "Pattern Keeper",
+		"Width": 3.7,
+		"Height": 4.84,
+		"Image": "native-audio-pattern-keeper.png"
 	},
 	{
 		"Brand": "Native Audio",
