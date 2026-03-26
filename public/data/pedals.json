@@ -24592,6 +24592,13 @@
 		"Image": "hk-rotosphere-mkii.png"
 	},
 	{
+		"Brand": "Human Gear",
+		"Name": "FINE.OD",
+		"Width": 3.38,
+		"Height": 4.87,
+		"Image": "human-gear-fine-od.png"
+	},
+	{
 		"Brand": "Humanoid",
 		"Name": "The Goblin",
 		"Width": 2.75,
