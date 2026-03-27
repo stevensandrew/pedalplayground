@@ -18251,6 +18251,13 @@
 	},
 	{
 		"Brand": "Fairfield Circuitry",
+		"Name": "Placeholder",
+		"Width": 4.7,
+		"Height": 3.84,
+		"Image": "fairfield-placeholder.png"
+	},
+	{
+		"Brand": "Fairfield Circuitry",
 		"Name": "Randy's Revenge",
 		"Width": 4.7,
 		"Height": 3.84,
@@ -25367,6 +25374,13 @@
 		"Width": 2.01,
 		"Height": 3.66,
 		"Image": "isp-deci-mate.png"
+	},
+	{
+		"Brand": "ISP Technologies",
+		"Name": "Hum Extractor + Decimator G",
+		"Width": 7.15,
+		"Height": 4.61,
+		"Image": "isp-hum-extractor-decimator-g.png"
 	},
 	{
 		"Brand": "J. Rockett",
@@ -39257,6 +39271,13 @@
 		"Image": "normal-devices-delay-cascade.png"
 	},
 	{
+		"Brand": "Oats and Molasses",
+		"Name": "VB-2",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "oam-vb2.png"
+	},
+	{
 		"Brand": "O.C.E. Pedals",
 		"Name": "Demon Core",
 		"Width": 3.7,
@@ -42713,6 +42734,13 @@
 		"Width": 4.8,
 		"Height": 4,
 		"Image": "pinstripepedals-disoplus.png"
+	},
+	{
+		"Brand": "Pinstripe Pedals",
+		"Name": "DISO xo POLREV",
+		"Width": 5.07,
+		"Height": 2.84,
+		"Image": "pinstripepedals-diso-xo-polrev.png"
 	},
 	{
 		"Brand": "Pinstripe Pedals",
