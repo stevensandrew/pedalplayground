@@ -31222,6 +31222,13 @@
 	},
 	{
 		"Brand": "Line 6",
+		"Name": "EX2",
+		"Width": 3.34,
+		"Height": 8.5,
+		"Image": "line6-ex2.png"
+	},
+	{
+		"Brand": "Line 6",
 		"Name": "FM4 Filter Modeler",
 		"Width": 10,
 		"Height": 6,
