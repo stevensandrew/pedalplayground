@@ -7716,6 +7716,13 @@
 	},
 	{
 		"Brand": "Carl Martin",
+		"Name": "Red Repeat",
+		"Width": 3.74,
+		"Height": 4.88,
+		"Image": "carl-martin-red-repeat.png"
+	},
+	{
+		"Brand": "Carl Martin",
 		"Name": "Surf Trem",
 		"Width": 2.6,
 		"Height": 4.88,
@@ -22255,13 +22262,6 @@
 	},
 	{
 		"Brand": "Goodwood Audio",
-		"Name": "Trash Panda Quad",
-		"Width": 4.96,
-		"Height": 3.84,
-		"Image": "goodwood-trash-panda-quad.png"
-	},
-	{
-		"Brand": "Goodwood Audio",
 		"Name": "Wet Dry Wet Box",
 		"Width": 4.29,
 		"Height": 4.87,
@@ -26704,6 +26704,13 @@
 		"Width": 3.95,
 		"Height": 5.7,
 		"Image": "jhs-colour-box-v2.png"
+	},
+	{
+		"Brand": "JHS",
+		"Name": "Coyote",
+		"Width": 2.92,
+		"Height": 4.89,
+		"Image": "jhs-coyote.png"
 	},
 	{
 		"Brand": "JHS",
@@ -41287,6 +41294,69 @@
 		"Image": "origin-sliderig-compact-deluxe-mk2.png"
 	},
 	{
+		"Brand": "Oscillator Devices",
+		"Name": "ABY",
+		"Width": 3.7,
+		"Height": 1.75,
+		"Image": "oscillator-devices-aby.png"
+	},
+	{
+		"Brand": "Oscillator Devices",
+		"Name": "Garbage Collector Mini",
+		"Width": 1.62,
+		"Height": 2.37,
+		"Image": "oscillator-devices-garbage-collector-mini.png"
+	},
+	{
+		"Brand": "Oscillator Devices",
+		"Name": "Garbage Collector V3",
+		"Width": 2.72,
+		"Height": 2.37,
+		"Image": "oscillator-devices-garbage-collector-v3.png"
+	},
+	{
+		"Brand": "Oscillator Devices",
+		"Name": "Hydra4X",
+		"Width": 4.54,
+		"Height": 2.68,
+		"Image": "oscillator-devices-hydra4x.png"
+	},
+	{
+		"Brand": "Oscillator Devices",
+		"Name": "Minerva",
+		"Width": 2.2,
+		"Height": 2.17,
+		"Image": "oscillator-devices-minerva.png"
+	},
+	{
+		"Brand": "Oscillator Devices",
+		"Name": "Siren",
+		"Width": 2.63,
+		"Height": 4.5,
+		"Image": "oscillator-devices-siren.png"
+	},
+	{
+		"Brand": "Oscillator Devices",
+		"Name": "Trash Panda Dual",
+		"Width": 2.18,
+		"Height": 3.94,
+		"Image": "oscillator-devices-trash-panda-dual.png"
+	},
+	{
+		"Brand": "Oscillator Devices",
+		"Name": "Trash Panda Quad",
+		"Width": 5.22,
+		"Height": 4.12,
+		"Image": "oscillator-devices-trash-panda-quad.png"
+	},
+	{
+		"Brand": "Oscillator Devices",
+		"Name": "Volt",
+		"Width": 2.5,
+		"Height": 2.17,
+		"Image": "oscillator-devices-volt.png"
+	},
+	{
 		"Brand": "Oto Machines",
 		"Name": "Bam",
 		"Width": 5.71,
@@ -43917,6 +43987,13 @@
 		"Width": 3.05,
 		"Height": 4.8,
 		"Image": "redpanda-particle2.png"
+	},
+	{
+		"Brand": "Red Panda",
+		"Name": "RD-1 Pitch Delay",
+		"Width": 2.87,
+		"Height": 4.5,
+		"Image": "redpanda-rd1-pitch-delay.png"
 	},
 	{
 		"Brand": "Red Panda",
