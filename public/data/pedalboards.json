@@ -70,6 +70,13 @@
         "Image": "blackbird-tolex-1530.png"
     },
     {
+		"Brand": "BoardMods",
+		"Name": "B",
+		"Width": 16.5,
+		"Height": 7,
+		"Image": "boardmods-b.png"
+	},
+	{
         "Brand": "BOSS",
         "Name": "BCB-30X",
         "Width": 13.32,
